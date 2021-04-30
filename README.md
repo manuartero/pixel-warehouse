@@ -1,5 +1,11 @@
 # Pixel Warehouse
 
+## Pixel Dailies
+
+|                                    | name | real size |   type |
+| :--------------------------------- | ---: | --------: | -----: |
+| ![](pixel-dailies/taxi-export.png) | Taxi |     32x20 | `copy` |
+
 ## Pokemon
 
 |                                               |         name | real size |       type |
@@ -10,7 +16,7 @@
 | ![](pokemon/flareon/flareon-export.png)       |      Flareon |     16x16 | `original` |
 | ![](pokemon/4-of-kanto/4-of-kanto-export.png) | _4 of Kanto_ |        -- | `original` |
 
-***
+---
 
 ## Mislav course
 
@@ -19,7 +25,7 @@
 | ![](mislav-course/1-cubos/ejercicio-curso-export.png) |    cubes |        -- | `exercise` |
 | ![](mislav-course/2-esferas/ejercicio-esferas.png)    | espheres |        -- | `exercise` |
 
-***
+---
 
 ## First Drawings
 
