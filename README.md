@@ -2,9 +2,10 @@
 
 ## Pixel Dailies
 
-|                                    | name | real size |   type |
-| :--------------------------------- | ---: | --------: | -----: |
-| ![](pixel-dailies/taxi-export.png) | Taxi |     32x20 | `copy` |
+|                                                  | name | real size |       type |
+| :----------------------------------------------- | ---: | --------: | ---------: |
+| ![](pixel-dailies/taxi-export.png)               | Taxi |     32x20 |     `copy` |
+| ![](pixel-dailies/optical-instrument-export.png) | Taxi |     32x20 | `original` |
 
 ## Pokemon
 
