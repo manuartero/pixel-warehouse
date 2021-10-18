@@ -2,10 +2,12 @@
 
 ## Pixel Dailies
 
-|                                                  | name | real size |       type |
-| :----------------------------------------------- | ---: | --------: | ---------: |
-| ![](pixel-dailies/taxi-export.png)               | Taxi |     32x20 |     `copy` |
-| ![](pixel-dailies/optical-instrument-export.png) | Taxi |     32x20 | `original` |
+|                                                  |               name | real size |
+| :----------------------------------------------- | -----------------: | --------: |
+| ![](pixel-dailies/taxi-export.png)               |               Taxi |        32 |
+| ![](pixel-dailies/optical-instrument-export.png) | Optical Instrument |        32 |
+| ![](pixel-dailies/pawn.png)                      |           Sidekick |        32 |
+| ![](pixel-dailies/villager.png)                  |           Villager |        32 |
 
 ## Pokemon
 
