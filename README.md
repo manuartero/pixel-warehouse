@@ -41,3 +41,4 @@
 | ![](first-drawings/keyboard/keyboard.gif)             |                  keyboard |      21x7 | `original` |
 | ![](first-drawings/guy/guy.png)                       |                       guy |     34x33 | `creation` |
 | ![](first-drawings/luke-vs-vader/luke-vs-vader.png)   | _The Empire Strikes Back_ |        -- | `original` |
+| ![](first-drawings/baby-tower/baby-tower.png)         |                Baby Tower |     40x32 | `original` |
